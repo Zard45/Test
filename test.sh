@@ -1,2 +1,2 @@
 echo "Kowe Kontol"
-tytid
+echo bjirlahya
